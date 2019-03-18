@@ -4,7 +4,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import javax.imageio.plugins.tiff.TIFFDirectory;
+//import javax.imageio.plugins.tiff.TIFFDirectory;
 import java.util.List;
 
 @RestController
